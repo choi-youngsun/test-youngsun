@@ -15,9 +15,9 @@ div.button {
 }
 
 .button.round {
-  padding: 9px 22px;
+  padding: 9px 23px;
   font-size: 14px;
-  font-weight: 400;
+  font-weight: 500;
   color: #fff;
   background-color: #494949;
   border-radius: 9999px;
